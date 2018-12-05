@@ -23,3 +23,14 @@ Steps to exploit
 1. run py script on wp python doser.py -t 999 -g 'http://wpdistillery.vm'
 in brower try to visit WPdistilery.vp 
 page is inaccesable becaouse of DOS attack
+<img src="https://github.com/YemiBeshe/Codepath-WP1/blob/master/WP%20WAITING%20.png">
+
+EPOit 3:-
+Vulnerabilty CVE-2017-1001000
+WP version: 4.7
+Remediation; Update to version: 4.8
+Steps to exploit 
+1.log in to WP as admin 
+2.Post somthing 
+3.make sure the permalink setting are post name 
+
